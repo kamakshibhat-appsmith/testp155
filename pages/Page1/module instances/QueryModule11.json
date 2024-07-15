@@ -1,0 +1,30 @@
+{
+  "packageUUID": "098f28e0-d2b1-4636-8197-99c1a3e0c4c6",
+  "moduleUUID": "0bae3d7c-cf30-4f83-afb9-9832210428d9",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.2",
+    "name": "QueryModule11",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {
+      "input1": "1"
+    },
+    "moduleInputs": {
+      "ajmglfxrmp": {
+        "id": "ajmglfxrmp",
+        "label": "input1",
+        "propertyName": "inputs.input1",
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1"
+      }
+    },
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_QueryModule11",
+  "deleted": false,
+  "gitSyncId": "6694e403811d8f2658e53766_4db0b4e7-a91c-428b-80d5-556641415781"
+}
